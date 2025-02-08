@@ -1,0 +1,1 @@
+# SmartDustbin_HackSnippet-3.0
