@@ -1,0 +1,22 @@
+Technical Challenges while modifying the dustbin to a smarter most one :
+
+
+1.Advanced Waste Classification – Accurately distinguishing between biodegradable and non-biodegradable waste using sensors.
+
+2.Optimized Proximity Detection – Ensuring the lid opens only when a person intends to throw waste, avoiding unnecessary activations.
+
+3.Faster Lid Operation – Achieving ultra-fast lid response for users in motion without affecting durability.
+
+4.Reliable Fullness Detection – Precisely measuring waste levels with a load cell and preventing false alerts.
+
+5.Odor Control & Prediction – Predicting and alerting users before odor starts developing in biodegradable waste.
+
+6.Power Efficiency & Portability – Enabling battery/solar-powered operation to eliminate continuous power dependency.
+
+7.Weather & Environmental Resistance – Making the sensors and components function reliably under various environmental conditions.
+
+8.Real-Time Data Display – Implementing a small screen or mobile integration to display waste levels and system status.
+
+9.Smart Alerts & Notifications – Adding IoT connectivity to send mobile alerts when the dustbin is full or emitting odor.
+
+10.Sustainability & Cost Management – Balancing high-tech features with affordability and ease of maintenance.
